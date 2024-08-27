@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I am a passionate M.Tech CS student at Royal University of Phnom Penh, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.  
+I am a passionate CS student at Royal University of Phnom Penh, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.  
   
 
 <br/>  
